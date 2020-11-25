@@ -19,13 +19,17 @@ Il sito è stato costruito utilizzando il Tema Cayman https://pages-themes.githu
 * Per tematismo della HomePage [https://github.com/pages-themes/cayman](https://github.com/pages-themes/cayman)
   * Il sito è stato impostato modificando il file *_config.yml*
   * La pagina principale è stata modificata modificando *index.md* 
+  <img src="figures/repository_settings.JPG">
 
 ## Costruzione/configurazione delle pagine web di documentazione dei vari repository
 
 Seguire quanto riportato nella guida: https://www.youtube.com/watch?edufilter=NULL&v=bwThn0rxv7M ovvero:
 
 1. Creare per ogni repository in cui vi siano le pagine web da visualizzare un branch nominato ***gh-pages***
+   <img src="figures/repository_branch.JPG">
 2. Settare le GitHub Pages di quel repository 
+   <img src="figures/repository_settings1.JPG">
+
 
 **NB Per tenere allineato il branch master con il branch gh-pages**
 <br>Reference: http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/
