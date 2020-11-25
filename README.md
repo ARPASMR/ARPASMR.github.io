@@ -5,8 +5,8 @@ Questo repository serve per configurare il Sito di GitHub Pages di ARPASMR, graz
 
 **Si accede a tutte le varie GitHub pages dei vari repository settati inserendo dopo la root principale il nome del repository:**
 <br>*Esempio:*
-<br>Per accedere alla documentazione online del repository ARPASMR/MyCubeR (https://github.com/ARPASMR/myCubeR) si accede da:
-<br>**[https://arpasmr.github.io/MyCubeR](https://arpasmr.github.io/MyCubeR)**
+<br>Per accedere alla documentazione online del repository ARPASMR/myCubeR (https://github.com/ARPASMR/myCubeR) si accede da:
+<br>**[https://arpasmr.github.io/myCubeR](https://arpasmr.github.io/myCubeR)**
 
 
 # COME COSTRUIRE LE GITHUB PAGES
@@ -20,6 +20,8 @@ Il sito è stato costruito utilizzando il Tema Cayman https://pages-themes.githu
   * Il sito è stato impostato modificando il file *_config.yml*
   * La pagina principale è stata modificata modificando *index.md* 
   <img src="figures/repository_settings.JPG" width="550px" >
+
+NB: Ogni volta che si vuole aggiungere un link a un repository di documentazione nella pagina principale del sito è necessario aggiornare il file *index.md* . 
 
 ## Costruzione/configurazione delle pagine web di documentazione dei vari repository
 
