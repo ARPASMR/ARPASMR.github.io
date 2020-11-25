@@ -4,4 +4,4 @@ layout: default
 
 # Documentazione dei repository
 
-- [MyCubeR](https://arpasmr.github.io/myCubeR)
+- [myCubeR](https://arpasmr.github.io/myCubeR)
