@@ -24,8 +24,8 @@ Il sito è stato costruito utilizzando il Tema Cayman https://pages-themes.githu
 
 Seguire quanto riportato nella guida: https://www.youtube.com/watch?edufilter=NULL&v=bwThn0rxv7M ovvero:
 
-* 1. Creare per ogni repository in cui vi siano le pagine web da visualizzare un branch nominato ***gh-pages***
-* 2. Settare le GitHub Pages di quel repository 
+1. Creare per ogni repository in cui vi siano le pagine web da visualizzare un branch nominato ***gh-pages***
+2. Settare le GitHub Pages di quel repository 
 
 **NB Per tenere allineato il branch master con il branch gh-pages**
 <br>Reference: http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/
